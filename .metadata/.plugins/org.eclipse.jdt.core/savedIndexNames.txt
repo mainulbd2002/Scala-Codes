@@ -1,0 +1,19 @@
+INDEX VERSION 1.127+D:\Personal\projects\scala\Projects\.metadata\.plugins\org.eclipse.jdt.core
+3946951444.index
+2066677221.index
+468320275.index
+2765654940.index
+4150638090.index
+4076477212.index
+396657558.index
+2171259726.index
+1814851271.index
+3891701691.index
+283763320.index
+245019209.index
+1969777707.index
+1456640286.index
+1864656328.index
+612244408.index
+1219775594.index
+1284139533.index
